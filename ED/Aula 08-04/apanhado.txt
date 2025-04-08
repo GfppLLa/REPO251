@@ -1,0 +1,13 @@
+Criar programa que testa algoritmos feitos até o momento e retorna o tempo de execução de cada um
+|
+|
+|---------->constuir bibliotecas com os algoritmos
+|                                        |---------->elaborar quais são e como funcionam
+|                                        |---------->Calcular a partir da criação de arrays aleatorios                        
+|                                                                                       |--------------->verificar o tempo a partir da ordenação destes
+
+1. busca sequencial
+2. Pesquisa bianria
+3. odenação seleção
+4.          inserção
+5.          troca(maybe)
