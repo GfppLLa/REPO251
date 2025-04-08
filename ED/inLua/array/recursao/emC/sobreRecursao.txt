@@ -1,0 +1,8 @@
+at this folder to be put all the text assumptions on the recursion in C lang!
+todo: 
+        gitignore for all  .out files
+about recursion:
+                in this scenario recursion is the use of the heap of execution 
+                intead of some loop for a repetition task, 
+                using the heap at each func call the data must be used and verified
+                kinda basic util its not
